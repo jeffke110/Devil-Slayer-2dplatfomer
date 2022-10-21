@@ -35,7 +35,7 @@ function enemies_variable_init(){
 }
 function preload_enemy_images() {
     demon_gif = loadImage("../assets/enemies/demon-idle.gif");
-    fire_skull_gif = loadImage("../assets/enemies/__eye_edited.gif");
+    fire_skull_gif = loadImage("../assets/enemies/eye_edited.gif");
 }
 function load_enemy_movement(){
     image(demon_gif, demon_object.x, demon_object.y);

@@ -97,16 +97,16 @@ function player_variable_init() {
     player = new title_screen_player(280, 325);
 }
 function preload_player_images() {
-    idle_forwawrd_gif = loadImage("../assets/main_character/__Idle_edited.gif");
-    idle_backward_gif = loadImage("../assets/main_character/__Idle_edited_flipped.gif");
-    run_forward_gif = loadImage("../assets/main_character/__Run_edited.gif");
-    run_backward_gif = loadImage("../assets/main_character/__Run_edited_flipped.gif");
-    jump_forward_gif = loadImage("../assets/main_character/__Jump_edited.gif");
-    jump_backward_gif = loadImage("../assets/main_character/__Jump_edited_flipped.gif");
-    fall_forward_gif = loadImage("../assets/main_character/__Fall_edited.gif");
-    fall_backward_gif = loadImage("../assets/main_character/__Fall_edited_flipped.gif");
-    attack_forward_gif =  loadImage("../assets/main_character/__Attack_edited.gif");
-    attack_backward_gif =  loadImage("../assets/main_character/__Attack_edited_flipped.gif");
+    idle_forwawrd_gif = loadImage("../assets/main_character/Idle_edited.gif");
+    idle_backward_gif = loadImage("../assets/main_character/Idle_edited_flipped.gif");
+    run_forward_gif = loadImage("../assets/main_character/Run_edited.gif");
+    run_backward_gif = loadImage("../assets/main_character/Run_edited_flipped.gif");
+    jump_forward_gif = loadImage("../assets/main_character/Jump_edited.gif");
+    jump_backward_gif = loadImage("../assets/main_character/Jump_edited_flipped.gif");
+    fall_forward_gif = loadImage("../assets/main_character/Fall_edited.gif");
+    fall_backward_gif = loadImage("../assets/main_character/Fall_edited_flipped.gif");
+    attack_forward_gif =  loadImage("../assets/main_character/Attack_edited.gif");
+    attack_backward_gif =  loadImage("../assets/main_character/Attack_edited_flipped.gif");
 }
 function load_player_movement_gif() {
     //attack forward
