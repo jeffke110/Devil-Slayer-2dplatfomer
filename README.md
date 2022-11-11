@@ -1,4 +1,5 @@
 # fina_video_game
+Link: https://jeffke110.github.io/final_video_game/game/
 This is dragon slayer. This game is a 2d platformer where the player must slay enemies and jump over obstacles to finish the level.
 The canvas size is 600x400;
 There is currenly one type of enemy (the cyclops bat)
