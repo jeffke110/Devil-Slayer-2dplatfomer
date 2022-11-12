@@ -104,7 +104,7 @@ title_screen_player.prototype._update_center = function () {
     this.translateX = tilemap_lvl_one.position.x + 300;
     this.centerX = this.translateX + this.width / 2;
     this.centerY = this.position.y + this.height / 2;
-    point(this.centerX, this.centerY);
+    //point(this.centerX, this.centerY);
 }
 
 function keyPressed() {
