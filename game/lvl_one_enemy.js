@@ -77,7 +77,7 @@ lvl_one_enemy.prototype._update_center = function(){
     this.centerX = this.position.x + this.width/2;
     this.centerY = this.position.y + this.height/2;
     
-    point(this.centerX, this.centerY);
+    //point(this.centerX, this.centerY);
     //text("(" + this.centerX + ", " + this.centerY + ")", this.position.x, this.position.y - 20);
 }
 var bat_forward_gif;
