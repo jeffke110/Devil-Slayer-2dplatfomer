@@ -40,7 +40,7 @@ class ground{
         //}
         //stroke('red'); // Change the color
         //strokeWeight(3); // Make the points 10 pixels in size
-        p//oint(this.x, this.y + 10);
+        //oint(this.x, this.y + 10);
 
     }
 }
