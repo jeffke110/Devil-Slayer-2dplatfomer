@@ -15,7 +15,7 @@ The canvas size is 600x400;
 
  Level 1: the eye goblin shoots fireballs and player takes damage near the enemy and when fire ball gets hit
 
- Level 2: the skulls enemies uses subdivision like in project 8 (Tropical Fish Aquarium)
+ Level 2: the skulls enemies uses boid's algorithm to have a school of fish like movement.
   tips: when the fire skulls are not on fire, they don't harm you
 
  Level 3: the ghost uses A star pathfinding to navigate to the player
