@@ -1,6 +1,6 @@
 # fina_video_game
-Link: https://jeffke110.github.io/final_video_game/game/
-This is dragon slayer. This game is a 2d platformer where the player must slay enemies and jump over obstacles to finish the level.
+Link: https://jeffke110.github.io/Devil-Slayer-2dplatfomer/game/
+This is Devil Slayer. This game is a 2d platformer where the player must slay enemies and jump over obstacles to finish the level.
 The canvas size is 600x400;
   
  The health is displayed above the player and enemies so that the health can be easily seen.
