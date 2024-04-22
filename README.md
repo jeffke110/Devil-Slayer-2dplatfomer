@@ -1,4 +1,4 @@
-# fina_video_game
+# Devil Slayer
 Link: https://jeffke110.github.io/Devil-Slayer-2dplatfomer/game/
 This is Devil Slayer. This game is a 2d platformer where the player must slay enemies and jump over obstacles to finish the level.
 The canvas size is 600x400;
